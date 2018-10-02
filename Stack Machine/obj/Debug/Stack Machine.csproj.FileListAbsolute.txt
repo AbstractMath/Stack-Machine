@@ -1,7 +1,0 @@
-C:\Users\Asher\Desktop\Suff to move\TechyStuff\CodeStuff\Stack Machine\Stack Machine\bin\Debug\Stack Machine.exe.config
-C:\Users\Asher\Desktop\Suff to move\TechyStuff\CodeStuff\Stack Machine\Stack Machine\bin\Debug\Stack Machine.exe
-C:\Users\Asher\Desktop\Suff to move\TechyStuff\CodeStuff\Stack Machine\Stack Machine\bin\Debug\Stack Machine.pdb
-C:\Users\Asher\Desktop\Suff to move\TechyStuff\CodeStuff\Stack Machine\Stack Machine\obj\Debug\Stack Machine.csprojResolveAssemblyReference.cache
-C:\Users\Asher\Desktop\Suff to move\TechyStuff\CodeStuff\Stack Machine\Stack Machine\obj\Debug\Stack Machine.csproj.CoreCompileInputs.cache
-C:\Users\Asher\Desktop\Suff to move\TechyStuff\CodeStuff\Stack Machine\Stack Machine\obj\Debug\Stack Machine.exe
-C:\Users\Asher\Desktop\Suff to move\TechyStuff\CodeStuff\Stack Machine\Stack Machine\obj\Debug\Stack Machine.pdb
